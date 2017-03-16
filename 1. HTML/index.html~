@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <title>My First Webpage</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+</head>
+
+<body>
+<div>
+ 	<h1>This is a huge header</h1>
+ 	<h2>Test</h2>
+ 	<h3>Test</h3>
+ 	<h4>Test</h4>
+ 	<h5>Test</h5>
+ 	<h6>Test</h6>
+ 	<p> Paragraph is used for proper formatting<br /> yo</p>
+ 	<hr />
+ 	<p> Different types of text formatting
+ 	<br /><strong> Bold </strong>
+ 	<br /><em> Italics </em>
+ 	<br /><u> Underlined </u>
+ 	<br/><strike> Cut text </strike></p>
+ 	<hr />
+ 	<h2> Justice League </h2>
+ 	<ul>
+ 		<li> Batman </li>
+ 		<img src= "http://static.comicvine.com/uploads/original/11126/111264223/4978219-4440144695-21085.jpg" width = "200" />
+ 		<li> Flash </li>
+ 		<img src= "http://d.ibtimes.co.uk/en/full/1394934/flash.jpg" width = "200" />
+ 		<li> Superman </li>
+ 		<img src= "http://weknowyourdreamz.com/images/superman/superman-07.jpg" width = "200" />
+ 		<li> Wonder Woman </li>
+ 		<img src= "http://1.media.dorkly.cvcdn.com/95/14/97d717e3d9870029282f0722d9e4306e-the-5-most-embarrassing-moments-in-wonder-woman-comic-book-history.jpg" width = "200" />
+ 		<li> Aquaman </li>
+ 		<img src= "http://www.themarysue.com/wp-content/uploads/2013/07/aquaman.jpg" width = "200" />
+ 	</ul>
+ 	<hr />
+ 	<h2> Suicide Squad </h2>
+ 	<ol>
+ 		<li> Harley Quinn </li>
+ 		<li> Deadshot </li>
+ 		<li> Diablo </li>
+ 	</ol>
+ 	<hr />
+ 	<h3> Aizen </h3>
+ 	<img src="images/Aizen.jpg" width="300"  />
+ 	<hr />
+ 	<h3> Grom </h3>
+ 	<img src="http://worldversus.com/img/warcraft.jpg" width ="300" />
+ 
+</div>
+</body>
+</html>
